@@ -1,3 +1,4 @@
-# Topics for the Assessment
+# Topics for the Assessment : Encapsulation
 
-to be anounced....
+Write a documentation in python which have encapsulation basics, real life example, and implementation and submit it on GitHub
+
